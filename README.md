@@ -5,7 +5,6 @@ In this project I'm tasked to build a node.js console app that generates random 
 * HTML 
 * CSS 
 * JavaScript 
-* Nodes.JS 
 ## Project Objectives 
 * Build a message generator using JavaScript 
 * Use Git Version Control 
